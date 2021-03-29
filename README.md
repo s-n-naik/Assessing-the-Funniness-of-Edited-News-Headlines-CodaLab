@@ -9,11 +9,9 @@ https://competitions.codalab.org/competitions/20970#results
 Team members:
 
 
-Hanna Behnke
-
-Jamie Salter
-
-Sneha Naik
+- Hanna Behnke
+- Jamie Salter
+- Sneha Naik
 
 
 
