@@ -7,8 +7,12 @@ Entry name "sn914" - second place at time of submission
 https://competitions.codalab.org/competitions/20970#results
 
 Team members:
+
+
 Hanna Behnke
+
 Jamie Salter
+
 Sneha Naik
 
 
