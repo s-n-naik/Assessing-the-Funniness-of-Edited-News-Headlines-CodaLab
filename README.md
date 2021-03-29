@@ -13,7 +13,7 @@ Team members:
 - Jamie Salter
 - Sneha Naik
 
-
+The report details our experimental methods, results and conclusions.
 
 The notebook is structured into the following 6 sections and is self-contained:
 
